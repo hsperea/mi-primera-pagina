@@ -2,7 +2,7 @@
 
 En este repositorio hice mi primera página web desarrollada con HTML, CSS y JavaScript como parte de mi proceso de aprendizaje en desarrollo web.
 
-## Propósito del Proyecto
+# Propósito del Proyecto
 
 El objetivo de este proyecto es:
 
@@ -11,13 +11,13 @@ El objetivo de este proyecto es:
 - Función básica en JavaScript.
 - Entender relación entre HTML, CSS y JavaScript.
 
-## Tecnologías Utilizadas
+# Tecnologías Utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Estructura del Proyecto
+# Estructura del Proyecto
 
 El proyecto contiene:
 
@@ -27,7 +27,7 @@ El proyecto contiene:
 - Una imagen.
 - Un botón que ejecuta una función en JavaScript.
 
-## Instalación y Uso
+# Instalación y Uso
 
 - Clonar el repositorio:
 
@@ -36,12 +36,12 @@ El proyecto contiene:
 - Abrir la carpeta del proyecto.
 
 
-## Funcionalidad
+# Funcionalidad
 
 Al hacer clic en el botón, se abre una función en JavaScript que muestra el mensaje:
 
 Hola Mundo desde JavaScript
 
-## Autor
+# Autor
 
 Héctor Steven Perea Segovia  
