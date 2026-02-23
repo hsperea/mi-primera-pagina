@@ -42,6 +42,4 @@ Al hacer clic en el botón, se abre una función en JavaScript que muestra el me
 
 Hola Mundo desde JavaScript
 
-# Autor
 
-Héctor Steven Perea Segovia  
